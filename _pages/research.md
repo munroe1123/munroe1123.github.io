@@ -7,36 +7,32 @@ nav_order: 1
 ---
 
 <style>
-/* More space before each major section */
+/* More separation between major research sections */
 .post h2 {
   margin-top: 3.5rem;
   margin-bottom: 1.2rem;
 }
 
-/* Keep paper titles closer to abstract dropdown */
-.paper-title {
-  margin-bottom: 0.25rem;
-}
-
-/* Keep abstract toggle close to title */
+/* Pull abstract dropdown closer to paper title */
 details {
-  margin-top: 0.25rem;
-  margin-bottom: 1rem;
+  margin-top: -0.5rem;
+  margin-bottom: 1.5rem;
 }
 
 details summary {
   cursor: pointer;
+  margin-top: 0;
+}
+
+details p {
+  margin-top: 0.75rem;
 }
 </style>
 
 
 ## Job Market Paper
 
-<div class="paper-title">
-
 **Media Slant from Social Networks: Social Ties and Political News Production**
-
-</div>
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -49,15 +45,10 @@ details summary {
 
 ## Publication
 
-<div class="paper-title">
-
 **[Complex Institutions, Social Identities, and Belief Formation](https://www.emerald.com/jpipe/article/7/1/73/1364114?casa_token=cJ_AMS4KUQcAAAAA:0gwnH5VLtwQomcUtowKGloEYm3ty518CHKc3qKLptN9s1nUPcq2Em8R0RxOgeaPXwSIeGfQnTVZVdz3z)**  
 Carlo M. Horz and Munroe Kim  
-*Journal of Political Institutions and Political Economy*, 7(1): 73–94, 2026.
-
+*Journal of Political Institutions and Political Economy*, 7(1): 73–94, 2026.  
 [Published Version](https://www.emerald.com/jpipe/article/7/1/73/1364114?casa_token=cJ_AMS4KUQcAAAAA:0gwnH5VLtwQomcUtowKGloEYm3ty518CHKc3qKLptN9s1nUPcq2Em8R0RxOgeaPXwSIeGfQnTVZVdz3z)
-
-</div>
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -68,12 +59,9 @@ Carlo M. Horz and Munroe Kim
 </details>
 
 
-## Working Paper
-
-<div class="paper-title">
+## Working Papers
 
 **Enough to be Coethnic? Loyalty Signaling and Coethnic Immigrant Inclusion**
-</div>
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -84,10 +72,7 @@ Carlo M. Horz and Munroe Kim
 </details>
 
 
-
 **American Military Broadcasting and Democratization**
-
-</div>
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -100,9 +85,6 @@ Carlo M. Horz and Munroe Kim
 
 ## Work in Progress
 
-<div class="paper-title">
-
 **Government Advertising and Local Media**
 
 **Revolving-Door Journalists and the Home Newspaper Advantage**
-
