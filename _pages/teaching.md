@@ -1,15 +1,21 @@
 ---
 layout: page
+title: Teaching
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 2
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Recent Teaching Experience
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### Power & Politics in America
+**Spring 2026 — Recitation Instructor**  
+Professor Chris Dawes
 
-{% include courses.liquid %}
+### Comparative Politics
+**Fall 2025 — Recitation Instructor**  
+Professor Tara Slough
+
+### International Politics
+**Spring 2025 — Recitation Instructor**  
+Professor Mike Gilligan
