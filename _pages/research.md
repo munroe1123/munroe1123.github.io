@@ -72,6 +72,19 @@ Carlo M. Horz and Munroe Kim
 
 <div class="paper-title">
 
+**Enough to be Coethnic? Loyalty Signaling and Coethnic Immigrant Inclusion**
+</div>
+
+<details>
+  <summary><strong>Abstract</strong></summary>
+
+  <p>
+  Shared ethnicity between natives and immigrants is widely expected to facilitate immigrant integration in ethnically homogeneous societies, yet a growing literature argues that inclusion must be earned by demonstrating commitment to the host country. Does this conditional logic extend to coethnic immigrants, or does shared descent confer belonging regardless of individual conduct? Drawing on a survey experiment in South Korea, I find that approximately 30 percent of native respondents demand greater patriotism from coethnic than from non-coethnic immigrants, and that valuing common ancestry as a criterion for national membership is the most robust predictor of this double standard. On average, however, these heightened expectations do not translate into more conditional treatment: natives neither reward nor punish coethnics more than non-coethnics for signaling stronger or weaker national attachment. Instead, coethnic immigrants enjoy a categorical advantage in both interpersonal allocation and support for welfare access. The findings reveal an interesting disconnect between the heightened expectations natives place on coethnic immigrants and the categorical in- clusion they nevertheless extend to them.
+  </p>
+</details>
+
+
+
 **American Military Broadcasting and Democratization**
 
 </div>
