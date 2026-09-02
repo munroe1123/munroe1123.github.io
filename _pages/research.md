@@ -6,26 +6,58 @@ nav: true
 nav_order: 1
 ---
 
+<style>
+/* More space before each major section */
+.post h2 {
+  margin-top: 3.5rem;
+  margin-bottom: 1.2rem;
+}
+
+/* Keep paper titles closer to abstract dropdown */
+.paper-title {
+  margin-bottom: 0.25rem;
+}
+
+/* Keep abstract toggle close to title */
+details {
+  margin-top: 0.25rem;
+  margin-bottom: 1rem;
+}
+
+details summary {
+  cursor: pointer;
+}
+</style>
+
+
 ## Job Market Paper
 
+<div class="paper-title">
+
 **Media Slant from Social Networks: Social Ties and Political News Production**
+
+</div>
 
 <details>
   <summary><strong>Abstract</strong></summary>
 
   <p>
-   Do social connections with journalists help politicians gain media visibility and favorable coverage? Research on media bias has largely focused on the ideological or partisan roots of media slant, paying relatively less attention to the role that informal social ties between politicians and journalists play in shaping political news. I examine the influence of such connections on political coverage in national newspapers during South Korea's post-democratization period (1992–2007), using a novel biographical dataset that links Members of the National Assembly and journalists through shared birthplace and alumni affiliations. Analyzing newspaper coverage of the National Assembly's annual audit of state affairs, I find that alumni ties with editors amplify the prominent coverage that legislators receive from their audit activities, in particular for junior legislators. These findings shed light on a relatively under-investigated source of media slant in comparative contexts and have implications for understanding the conditions necessary for media independence more broadly. 
+  Do social connections with journalists help politicians gain media visibility and favorable coverage? Research on media bias has largely focused on the ideological or partisan roots of media slant, paying relatively less attention to the role that informal social ties between politicians and journalists play in shaping political news. I examine the influence of such connections on political coverage in national newspapers during South Korea's post-democratization period (1992–2007), using a novel biographical dataset that links Members of the National Assembly and journalists through shared birthplace and alumni affiliations. Analyzing newspaper coverage of the National Assembly's annual audit of state affairs, I find that alumni ties with editors amplify the prominent coverage that legislators receive from their audit activities, in particular for junior legislators. These findings shed light on a relatively under-investigated source of media slant in comparative contexts and have implications for understanding the conditions necessary for media independence more broadly.
   </p>
 </details>
 
 
-## Publications
+## Publication
+
+<div class="paper-title">
 
 **[Complex Institutions, Social Identities, and Belief Formation](https://www.emerald.com/jpipe/article/7/1/73/1364114?casa_token=cJ_AMS4KUQcAAAAA:0gwnH5VLtwQomcUtowKGloEYm3ty518CHKc3qKLptN9s1nUPcq2Em8R0RxOgeaPXwSIeGfQnTVZVdz3z)**  
 Carlo M. Horz and Munroe Kim  
 *Journal of Political Institutions and Political Economy*, 7(1): 73–94, 2026.
 
 [Published Version](https://www.emerald.com/jpipe/article/7/1/73/1364114?casa_token=cJ_AMS4KUQcAAAAA:0gwnH5VLtwQomcUtowKGloEYm3ty518CHKc3qKLptN9s1nUPcq2Em8R0RxOgeaPXwSIeGfQnTVZVdz3z)
+
+</div>
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -36,27 +68,28 @@ Carlo M. Horz and Munroe Kim
 </details>
 
 
-## Working Papers
+## Working Paper
+
+<div class="paper-title">
 
 **American Military Broadcasting and Democratization**
+
+</div>
 
 <details>
   <summary><strong>Abstract</strong></summary>
 
   <p>
-  Abstract goes here.
+  Foreign media has been conventionally viewed as a threat to authoritarian stability, but recent research finds that the entertainment value of foreign content may instead increase support for authoritarian regimes. In this paper, I integrate and test these diverging arguments by exploiting a rare shift in the programming composition of the American Forces Korea Network (AFKN), which was an entertainment-focused television channel that was popular among South Korean citizens. Using novel data on AFKN broadcast transmitters and geo-coded election returns, I examine whether the sudden increase of journalistic programming in 1983 affected support for the military dictatorship between the 1981 and 1985 legislative elections. Evidence shows that the shift from entertainment to news led to a disproportionate drop in ruling party support and mobilized electoral participation in AFKN reception areas.
   </p>
 </details>
 
 
 ## Work in Progress
 
+<div class="paper-title">
+
 **Government Advertising and Local Media**
 
-<details>
-  <summary><strong>Abstract</strong></summary>
+**Revolving-Door Journalists and the Home Newspaper Advantage**
 
-  <p>
-  Abstract goes here.
-  </p>
-</details>
