@@ -33,9 +33,16 @@ details p {
 ## Job Market Paper
 
 **Media Slant from Social Networks: Social Ties and Political News Production**
-[Manuscript](https://www.dropbox.com/scl/fi/ckjorbim6adbfizikbsy5/Media_Politician_Network.pdf?rlkey=wkqpcwiu6pb1e13oil3rkgq8x&dl=0)
+
 <details>
-  <summary><strong>Abstract</strong></summary>
+  <summary>
+    <strong>Abstract</strong>
+    <a href="https://www.dropbox.com/scl/fi/ckjorbim6adbfizikbsy5/Media_Politician_Network.pdf?rlkey=wkqpcwiu6pb1e13oil3rkgq8x&amp;st=m0lauym0&amp;dl=0"
+       target="_blank"
+       rel="noopener"
+       onclick="event.stopPropagation()"
+       style="margin-left: 20px;">Manuscript</a>
+  </summary>
 
   <p>
   Do social connections with journalists help politicians gain media visibility and favorable coverage? Research on media bias has largely focused on the ideological or partisan roots of media slant, paying relatively less attention to the role that informal social ties between politicians and journalists play in shaping political news. I examine the influence of such connections on political coverage in national newspapers during South Korea's post-democratization period (1992–2007), using a novel biographical dataset that links Members of the National Assembly and journalists through shared birthplace and alumni affiliations. Analyzing newspaper coverage of the National Assembly's annual audit of state affairs, I find that alumni ties with editors amplify the prominent coverage that legislators receive from their audit activities, in particular for junior legislators. These findings shed light on a relatively under-investigated source of media slant in comparative contexts and have implications for understanding the conditions necessary for media independence more broadly.
