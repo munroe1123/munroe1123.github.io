@@ -33,7 +33,7 @@ details p {
 ## Job Market Paper
 
 **Media Slant from Social Networks: Social Ties and Political News Production**
-
+[Manuscript](https://www.dropbox.com/scl/fi/ckjorbim6adbfizikbsy5/Media_Politician_Network.pdf?rlkey=wkqpcwiu6pb1e13oil3rkgq8x&dl=0)
 <details>
   <summary><strong>Abstract</strong></summary>
 
