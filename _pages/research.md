@@ -32,7 +32,7 @@ details p {
 
 ## Job Market Paper
 
-**Media Slant from Social Networks: Social Ties and Political News Production**
+**Media Bias from Social Networks: Social Ties and Political News Production**
 
 <details>
   <summary>
