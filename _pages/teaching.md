@@ -25,9 +25,11 @@ Professor Chris Dawes
 
 **Fall 2025 — Recitation Instructor**  
 Professor Tara Slough
+[Teaching Evaluations (PDF)](https://www.dropbox.com/scl/fi/3ll03s2b9m9ok23vmc04o/ta_evaluation_fall_2025.pdf?rlkey=ow1cbgt2loczm1h2vleirhp41&st=m2haesrc&dl=0)
 
 
 ### International Politics
 
 **Spring 2025 — Recitation Instructor**  
 Professor Mike Gilligan
+[Teaching Evaluations (PDF)](https://www.dropbox.com/scl/fi/i9pu8xk30bpti8d5svjkk/ta_evaluation_spring_2025.pdf?rlkey=ypjr1l04f3zfy5paaidt4kcmb&st=ocri3h0y&dl=0)
