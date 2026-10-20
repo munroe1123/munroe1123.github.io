@@ -13,6 +13,10 @@ h3 {
 }
 </style>
 
+## Sample Syllabus 
+
+[Contemporary Politics & Society of South Korea (PDF)](https://www.dropbox.com/scl/fi/amgyv6vcjdeyuenqrt8ra/Contemporary_Politics_Society_Korea_Syllabus.pdf?rlkey=6snm7nlg1elva938g8fofaefe&st=ranwo238&dl=0)
+
 ## Recent Teaching Experience
 
 ### Power & Politics in America
