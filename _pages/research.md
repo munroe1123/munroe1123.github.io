@@ -69,7 +69,7 @@ Carlo M. Horz and Munroe Kim
 
 
 
-**Enough to be Coethnic? Loyalty Signaling and Coethnic Immigrant Inclusion**
+**Enough to be Coethnic? Loyalty Signaling and Coethnic Immigrant Inclusion** <em>(Under Review)</em>
 
 <details>
   <summary>
@@ -82,7 +82,7 @@ Carlo M. Horz and Munroe Kim
   </summary>
 
   <p>
-  Shared ethnicity between natives and immigrants is widely expected to facilitate immigrant integration in ethnically homogeneous societies, yet a growing literature argues that inclusion must be earned by demonstrating commitment to the host country. Does this conditional logic extend to coethnic immigrants, or does shared descent confer belonging regardless of individual conduct? Drawing on a survey experiment in South Korea, I find that approximately 30 percent of native respondents demand greater patriotism from coethnic than from non-coethnic immigrants, and that valuing common ancestry as a criterion for national membership is the most robust predictor of this double standard. On average, however, these heightened expectations do not translate into more conditional treatment: natives neither reward nor punish coethnics more than non-coethnics for signaling stronger or weaker national attachment. Instead, coethnic immigrants enjoy a categorical advantage in both interpersonal allocation and support for welfare access. The findings reveal an interesting disconnect between the heightened expectations natives place on coethnic immigrants and the categorical inclusion they nevertheless extend to them.
+  Shared ethnicity is widely expected to facilitate immigrant inclusion in ethnically homogeneous societies, yet coethnic immigrants sometimes face similar levels of discrimination as other immigrant groups. Under what conditions does coethnicity confer an advantage in immigrant inclusion? This article examines whether the inclusion of coethnic immigrants depends on their expressions of national loyalty, which may affirm or undermine their ethnicity-based claims to national belonging. Using original survey data from South Korea, I find that approximately 30 percent of native respondents demand greater patriotism from coethnic than from non-coethnic immigrants, and the strongest predictor of this stricter standard is the belief that common ancestry is an important criterion for national membership. To examine whether these expectations translate into differential treatment, I embed two experiments in the survey. In a hypothetical dictator game, respondents allocate more tokens to coethnic than to non-coethnic immigrants, but this advantage diminishes substantially when coethnic immigrants express support for their country of origin. By contrast, in a conjoint experiment on immigrants' access to welfare benefits, the coethnic advantage persists regardless of such expressions. These findings suggest that the advantages of shared ethnicity may depend on immigrants' expressions of loyalty, although this conditionality varies across different forms of immigrant inclusion.
   </p>
 </details>
 
