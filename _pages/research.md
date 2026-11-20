@@ -100,6 +100,6 @@ Carlo M. Horz and Munroe Kim
 
 ## Work in Progress
 
-**Evading Accountability through Government Advertising**
+**Evading Accountability through Government Advertising** (with Jonghoon Lee)
 
 **Favoring Our Own? The Journalist–Politician Revolving Door and Home-Outlet Favoritism**
