@@ -74,7 +74,7 @@ Carlo M. Horz and Munroe Kim
 <details>
   <summary>
     <strong>Abstract</strong>
-    <a href="https://www.dropbox.com/scl/fi/zvlpfilnvjvfbx702d57m/Coethnic_Immigration.pdf?rlkey=li3on9v4v83gi7uoogjo5pkq5&st=2pk4jcbf&dl=0"
+    <a href="https://www.dropbox.com/scl/fi/dakkvj6f2r52l7bozsqsk/Coethnic_Loyalty.pdf?rlkey=sfb9qa6gmtyrqm2nss8zcdznu&st=446dy80c&dl=0"
        target="_blank"
        rel="noopener"
        onclick="event.stopPropagation()"
