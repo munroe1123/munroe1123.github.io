@@ -100,6 +100,6 @@ Carlo M. Horz and Munroe Kim
 
 ## Work in Progress
 
-**Government Advertising and Local Media**
+**Evading Accountability through Government Advertising**
 
-**Revolving-Door Journalists and the Home Newspaper Advantage**
+**Favoring Our Own? The Journalist–Politician Revolving Door and Home-Outlet Favoritism**
